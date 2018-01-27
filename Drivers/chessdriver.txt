@@ -1,0 +1,13 @@
+eye 250 250 250
+look 0 0 0
+up 0 0 1
+d 200
+bounds -2 -2 2 2
+res 2160 2160
+recursionLevel 1
+ambient 0.1 0.1 0.1
+light 2000 0 5000 1 0.5 0.5 0.5
+light -2000 0 5000 1 0.5 0.5 0.5
+light 0 -2000 5000 1 0.5 0.5 0.5
+light 0 2000 5000 1 0.5 0.5 0.5
+model 1.0 0.0 0.0 0 0.005 0 0 -1.25 ChessSet.obj
